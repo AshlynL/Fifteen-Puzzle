@@ -1,1 +1,1 @@
-This is a 15 puzzle game I created for a web-delopment course.
+This is a 15 puzzle game I programmed for a web programming course.
