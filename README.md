@@ -1,1 +1,1 @@
-15 puzzle game programmed for web programming course.
+15 slide puzzle game programmed for web programming course.
